@@ -8,6 +8,8 @@ def print_indent(depth: int) -> None:
 
 #BROUETTE2
 
+#HELLOWORLD
+
 def print_path(depth: int, path: str) -> tuple[int, int]:
     num_files = 0
     num_dirs = 0
