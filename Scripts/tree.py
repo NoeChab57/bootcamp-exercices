@@ -6,7 +6,7 @@ def print_indent(depth: int) -> None:
     for _ in range(depth):
         print("|   ", end="")
 
-#BROUETTE
+#BROUETTE2
 
 def print_path(depth: int, path: str) -> tuple[int, int]:
     num_files = 0
